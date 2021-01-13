@@ -10,6 +10,6 @@ public class DemoController {
 @GetMapping("/")
 public String getMassage()
 {
-	return "Welcome to world of DevOps for automation";
+	return "Welcome to world of DevOps for automation Mr.Riyaz";
 }
 }
