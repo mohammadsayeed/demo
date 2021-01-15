@@ -24,6 +24,9 @@
 <tr>
 <td><input type="button" value="Login"><td>
 </tr>
+   <tr>
+<td><input type="button" value="Reset"><td>
+</tr>
  
 </table>
 </div>
