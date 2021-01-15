@@ -8,11 +8,11 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.view.JstlView;
 import org.springframework.web.servlet.view.UrlBasedViewResolver;
 
-@Configuration
-@EnableWebMvc
+//@Configuration
+//@EnableWebMvc
 
 public class AppConfig implements WebMvcConfigurer {
-
+/*
     @Bean
     public UrlBasedViewResolver viewResolver() {
         UrlBasedViewResolver resolver
@@ -21,5 +21,5 @@ public class AppConfig implements WebMvcConfigurer {
         resolver.setSuffix(".jsp");
         resolver.setViewClass(JstlView.class);
         return resolver;
-    }
+    }*/
 }
