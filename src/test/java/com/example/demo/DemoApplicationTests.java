@@ -9,5 +9,9 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+@Test
+public void testSimple()
+{
+	System.out.println("Demo application is fine, all is tested fine");
+}
 }

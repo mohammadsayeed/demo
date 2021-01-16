@@ -19,7 +19,7 @@ public class DemoController {
 public ModelAndView  getMassage(Model mod, HttpServletResponse response)
 { 
 	
-		String massage = "Welcome to world of DevOps for automation";
+		String massage = "Welcome to world of DevOps";
 	mod.addAttribute("massage", massage);
 	
 	System.out.println("Welcome to world of DevOps for automation");
