@@ -17,13 +17,13 @@
   <h1>${massage}</h1>
   <table style="background-color: #115E67; border: 1px solid #ccc; width: 400px; height: 200px">
 <tr>
-<td>Name </td><td><input type="text"></td>
+<td style="color: white;">User Name </td><td><input type="text"></td>
 </tr>
 <tr>
 <td>Password</td><td><input type="password"></td></tr>
 <tr>
 <td ></td><td align="left">
-<input type="button" value="Login" >
+<input type="button" value="  Login  " >
 </td>
 </tr>
    
