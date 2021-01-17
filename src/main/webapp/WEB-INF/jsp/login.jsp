@@ -28,7 +28,7 @@
 </tr>
   <tr>
 <td ></td><td align="left">
-<input type="button" value=" Login " >
+<input type="button" value=" Reset " >
 </td>
 </tr>
    
