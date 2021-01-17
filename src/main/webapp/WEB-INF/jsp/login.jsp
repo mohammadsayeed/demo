@@ -20,9 +20,9 @@
 <td style="color: white;">User Name </td><td><input type="text"></td>
 </tr>
 <tr>
-<td >Password</td><td><input type="password"></td></tr>
+<td style="color: white;">Password</td><td><input type="password"></td></tr>
 <tr>
-<td style="color: white;"></td><td align="left">
+<td ></td><td align="left">
 <input type="button" value=" Login " >
 </td>
 </tr>
