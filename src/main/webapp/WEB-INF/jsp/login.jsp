@@ -23,7 +23,7 @@
 <td >Password</td><td><input type="password"></td></tr>
 <tr>
 <td style="color: white;"></td><td align="left">
-<input type="button" value="  Login  " >
+<input type="button" value=" Login " >
 </td>
 </tr>
    
