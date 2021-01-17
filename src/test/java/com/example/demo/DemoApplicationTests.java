@@ -12,6 +12,6 @@ class DemoApplicationTests {
 @Test
 public void testSimple()
 {
-	System.out.println("Demo application is fine, all is tested fine");
+	System.out.println("**************************Test execution done ****************************");
 }
 }
